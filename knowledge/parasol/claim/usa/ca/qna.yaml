@@ -120,7 +120,7 @@ seed_examples:
 document_outline: |
   Information about the California Driver Handbook
 document:
-  repo: https://github.com/tsailiming/instructlab-taxonomy
-  commit: HEAD
+  repo: https://github.com/tsailiming/instructlab-knowledge
+  commit: 6540768ceb81309544ba4e53c32ef278c61362b8
   patterns:
     - 'ca_handbook.md'
